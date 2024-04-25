@@ -6,7 +6,7 @@ const placeholder = 'O que você procura?'
 const ContainerEstilizado = styled.div`
     position: relative;
     display: inline-block;
-`;
+`
 
 const CampoTextoEstilizado = styled.input`
     height: 56px;

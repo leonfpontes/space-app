@@ -25,7 +25,7 @@ const Tag = styled.button`
     box-sizing: border-box;
     border: 2px solid transparent;
     &:hover {
-    border-color: #C98CF1;
+      border-color: #C98CF1;
     }
 `
 
